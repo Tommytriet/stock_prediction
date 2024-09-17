@@ -21,4 +21,5 @@
 * Stock markets are highly volatile and influenced by many external factors, making predictions uncertain.
 * Noise and unpredictability in stock data can lead to overfitting models.
 * Availability of accurate and real-time data is crucial for effective predictions.
+  
 Stock prediction is a complex task, but it plays a vital role in financial markets, helping investors make informed decisions.
